@@ -1,3 +1,4 @@
+%Change Log: 2020, Jan 07
 %let the matrix eqn be AX=B
 %A - variable matrix (or square matrix or coefficient matrix)
 %B - constant matrix (or column matrix)
